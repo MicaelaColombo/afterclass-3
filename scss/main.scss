@@ -1,0 +1,54 @@
+@import "./utilidades/reset";
+@import "./secciones/header;
+
+@import "./secciones/main-index";
+@import "./utilidades/general"
+
+
+
+
+
+
+
+
+/* ----ARTICULO----- */
+
+.main article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main article img{
+    width: 400px;
+}
+.main article p{
+    width: 400px;
+    margin: auto;
+    margin: 15px 0;
+}
+
+aside{
+    display: none;
+}
+
+
+/* ----FOOTER------ */
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.footer ul{
+    list-style-type: none;
+}
+
+.footer p{
+    text-align: center;
+}
+
+
+
+
+

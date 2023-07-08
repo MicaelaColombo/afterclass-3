@@ -1,0 +1,53 @@
+.main .tag{
+    background-color: #a61717;
+    color: white;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    border-radius: 3px;
+    padding: 4px 10px;
+
+}
+
+
+
+.main .main-top{
+    margin: 30px 20px;
+}
+
+.main-top h1{
+    margin: 8px 0;
+}
+
+.main ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.main li{
+    padding: 10px;
+    margin: 0 5px;
+}
+
+.fb{
+    background-color: blue;
+    color: white;
+}
+.tw{
+    background-color: aqua;
+}
+.wp{
+    background-color: greenyellow;
+}
+.mail{
+    background-color: darkred;
+    color: white;
+}
+.print{
+    background-color: gray;
+}
+/* Primer imagen del main */
+.main img{
+    width: 400px;
+}
